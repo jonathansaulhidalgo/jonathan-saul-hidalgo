@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+.stomach{
+    background-color: #ced4da;
+}
+.stomach-card{
+    background-color: transparent;
+}
+a {
+    color: #f6a700;
+    text-decoration: none;
+}
+a:hover {
+    color: #face71;
+}
+.hero{
+    background-image: url("../img/abstract.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    color: white;
+}
+.navbar {
+    background-color: white;
+    font-weight: bold;
+}
+.navbar-toggler{
+    border-style: none;
+    background-color: #4d535a;
+}
+.nav-link{
+    color: #4d535a;
+}
+.nav-link:hover{
+    font-weight: bold;
+    color: white;
+    background-color: #f6a700;
+}
+.dropdown-menu{
+    background-color: white;
+    color: #4d535a;
+    font-weight: bold;
+}
+.dropdown-menu:hover{
+    background-color: white;
+}
+.dropdown-item{
+    background-color: white;
+    color: #4d535a;
+    font-weight: bold;
+}
+.dropdown-item:hover{
+    font-weight: bold;
+    background-color: #f6a700;
+    color: white;
+}
+.btn-secondary{
+    background-color: #4d535a;
+    color: white;
+}
+.btn-secondary:hover{
+    background-color: #f6a700;
+    color: white;
+}
+.btn-day-night{
+    color: white;
+}
+.btn-day-night:hover{
+    color: white;
+}
+.bi-brightness-high-fill{
+    background-color: #f6a700;
+}
+.bi-moon-fill{
+    background-color: white;
+    color:#4d535a;
+}
+.icon-color-lighter {
+    color: #face71;
+}
+.icon-color-light {
+    color: #f9c455;
+}
+.icon-color-middle {
+    color: #f8bb39;
+}
+.icon-color-dark {
+    color: #f7b11c;
+}
+.icon-color-darker {
+    color: #f6a700;
+}
+.link-icon-dark {
+    color: #4d535a;
+}
+.link-icon-dark:hover {
+    color: #f6a700;
+}
+.link-icon-light {
+    color: white;
+}
+.link-icon-light:hover {
+    color: #f6a700;
+}
+.accordion-button{
+    color: #4d535a;
+    background-color: transparent;
+}
+.accordion-button:hover {
+    color: white;
+    background-color: #f6a700;
+}
+.accordion-item{
+    background-color: transparent;
+}
+h3{
+    color:#4d535a;
+}
+.bg{
+    background-color: #f6a700;
+    color: white;
+}
+footer{
+    background-color: transparent;
+    color: #4d535a;
+}
+.list-group{
+    list-style: none;
+}
+.modal-button{
+    background-color: transparent;
+    border: none;
+    color: #4d535a;
+}
+.modal-button:hover{
+    background-color: transparent;
+    border: none;
+    color: #f6a700;
+}
