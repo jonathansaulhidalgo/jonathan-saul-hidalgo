@@ -9,7 +9,7 @@ body.night {
     padding: 5px;
     margin: 5px;
     background-color: black;
-    color: #fef5e3;
+    color: #ffffff;
 }
 body.night .stomach{
     background-color: #676A6D;
@@ -29,7 +29,7 @@ body.night .hero{
     background-size: cover;
     width: 100%;
     height: 90vh;
-    color: #fef5e3;
+    color: #ffffff;
 }
 body.night .navbar {
     background-color: black;
@@ -46,6 +46,11 @@ body.night .nav-link:hover{
     font-weight: bold;
     color: #4d535a;
     background-color: #f6a700;
+}
+body.night .nav-link-active{
+    font-weight: bold;
+    color: #676A6D;
+    background-color: transparent;
 }
 body.night .dropdown-menu{
     background-color: black;
@@ -66,8 +71,8 @@ body.night .dropdown-item:hover{
     color: #4d535a;
 }
 body.night .btn-secondary{
-    background-color: #4d535a;
-    color: white;
+    background-color: #f6a700;
+    color: #4d535a;
 }
 body.night .btn-secondary:hover{
     background-color: #f6a700;
@@ -131,7 +136,7 @@ body.night .list-group-item{
 }
 body.night .card{
     background-color: transparent;
-    color:#fef5e3;
+    color:#ffffff;
 }
 body.night h3{
     color:#4d535a;
@@ -142,7 +147,7 @@ body.night .bg{
 }
 body.night footer{
     background-color: black;
-    color: #fef5e3;
+    color: #ffffff;
 }
 body.night .list-group{
     list-style: none;
@@ -159,8 +164,5 @@ body.night .modal-button:hover{
 }
 body.night .modal-content{
     background-color: black;
-    color: #fef5e3;
-}
-body.night img{
-    background-color: white;
+    color: #ffffff;
 }

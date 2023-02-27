@@ -49,6 +49,11 @@ a:hover {
     color: white;
     background-color: #f6a700;
 }
+.nav-link-active{
+    font-weight: bold;
+    color: #f6a700;
+    background-color: transparent;
+}
 .dropdown-menu{
     background-color: white;
     color: #4d535a;
@@ -68,12 +73,12 @@ a:hover {
     color: white;
 }
 .btn-secondary{
-    background-color: #4d535a;
-    color: white;
+    background-color: #f6a700;
+    color: #ffffff;
 }
 .btn-secondary:hover{
     background-color: #f6a700;
-    color: white;
+    color: #ffffff;
 }
 .btn-day-night{
     color: white;
