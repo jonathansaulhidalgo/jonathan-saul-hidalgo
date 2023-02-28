@@ -31,6 +31,9 @@ body.night .hero{
     height: 90vh;
     color: #ffffff;
 }
+body.night img{
+    filter:invert(1);
+}
 body.night .navbar {
     background-color: black;
     font-weight: bold;
