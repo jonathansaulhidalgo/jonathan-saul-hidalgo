@@ -155,3 +155,11 @@ footer{
     border: none;
     color: #f6a700;
 }
+@media screen and (max-width: 540px){
+    .nav-legal{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+}
+}

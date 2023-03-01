@@ -52,7 +52,7 @@ body.night .nav-link:hover{
 }
 body.night .nav-link-active{
     font-weight: bold;
-    color: #676A6D;
+    color: #face71;
     background-color: transparent;
 }
 body.night .dropdown-menu{
