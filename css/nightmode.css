@@ -122,17 +122,6 @@ body.night .link-icon-dark {
 body.night .link-icon-dark:hover {
     color: #f6a700;
 }
-body.night .accordion-button{
-    color: #fef5e3;
-    background-color: transparent;
-}
-body.night .accordion-button:hover {
-    color: #4d535a;
-    background-color: #f6a700;
-}
-body.night .accordion-item{
-    background-color: transparent;
-}
 body.night .list-group-item{
     background-color: black;
     color:#fef5e3;
@@ -154,6 +143,9 @@ body.night footer{
 }
 body.night .list-group{
     list-style: none;
+}
+body.night .list-group-item{
+    background-color: transparent;
 }
 body.night .modal-button{
     background-color: transparent;

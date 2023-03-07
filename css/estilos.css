@@ -120,17 +120,6 @@ a:hover {
 .link-icon-light:hover {
     color: #f6a700;
 }
-.accordion-button{
-    color: #4d535a;
-    background-color: transparent;
-}
-.accordion-button:hover {
-    color: white;
-    background-color: #f6a700;
-}
-.accordion-item{
-    background-color: transparent;
-}
 h3{
     color:#4d535a;
 }
@@ -144,6 +133,9 @@ footer{
 }
 .list-group{
     list-style: none;
+}
+.list-group-item{
+    background-color: transparent;
 }
 .modal-button{
     background-color: transparent;
