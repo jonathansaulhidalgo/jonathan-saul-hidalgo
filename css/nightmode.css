@@ -6,10 +6,12 @@
 }
 body.night {
     font-family: 'Open Sans', sans-serif;
-    padding: 5px;
-    margin: 5px;
     background-color: black;
     color: #ffffff;
+}
+body.night section {
+    padding: 5px;
+    margin: 5px;
 }
 body.night .stomach{
     background-color: #676A6D;
