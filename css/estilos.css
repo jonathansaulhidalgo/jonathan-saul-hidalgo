@@ -6,9 +6,11 @@
 }
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+section {
     padding: 5px;
     margin: 5px;
-    background-color: white;
 }
 .stomach{
     background-color: #ced4da;
