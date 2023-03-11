@@ -10,7 +10,6 @@ body {
 }
 section {
     padding: 5px;
-    margin: 5px;
 }
 .stomach{
     background-color: #ced4da;
@@ -36,6 +35,7 @@ a:hover {
     color: white;
 }
 .navbar {
+    color: #4d535a;
     background-color: white;
     font-weight: bold;
 }
@@ -50,11 +50,6 @@ a:hover {
     font-weight: bold;
     color: white;
     background-color: #f6a700;
-}
-.nav-link-active{
-    font-weight: bold;
-    color: #f6a700;
-    background-color: transparent;
 }
 .dropdown-menu{
     background-color: white;

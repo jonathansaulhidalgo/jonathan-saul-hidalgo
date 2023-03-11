@@ -33,7 +33,7 @@ body.night .hero{
     height: 90vh;
     color: #ffffff;
 }
-body.night img{
+body.night .invert{
     filter:invert(1);
 }
 body.night .navbar {
@@ -51,11 +51,6 @@ body.night .nav-link:hover{
     font-weight: bold;
     color: #4d535a;
     background-color: #f6a700;
-}
-body.night .nav-link-active{
-    font-weight: bold;
-    color: #face71;
-    background-color: transparent;
 }
 body.night .dropdown-menu{
     background-color: black;
