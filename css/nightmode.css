@@ -11,7 +11,6 @@ body.night {
 }
 body.night section {
     padding: 5px;
-    margin: 5px;
 }
 body.night .stomach{
     background-color: #676A6D;
@@ -19,6 +18,7 @@ body.night .stomach{
 body.night a {
     color: #f6a700;
     text-decoration: none;
+    font-weight: bold;
 }
 body.night a:hover {
     color: #face71;
