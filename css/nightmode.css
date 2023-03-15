@@ -134,6 +134,9 @@ body.night .bg{
     background-color: #f6a700;
     color: #4d535a;
 }
+body.night .brandingLogo{
+    opacity: 0;
+}
 body.night footer{
     background-color: black;
     color: #ffffff;

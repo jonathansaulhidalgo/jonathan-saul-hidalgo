@@ -71,6 +71,10 @@ a:hover {
     background-color: #f6a700;
     color: white;
 }
+.logo{
+    width: 100px;
+    height: 100px;
+}
 .btn-secondary{
     background-color: #f6a700;
     color: #ffffff;
@@ -125,6 +129,9 @@ h3{
 .bg{
     background-color: #f6a700;
     color: white;
+}
+.brandingLogo{
+    opacity: 0;
 }
 footer{
     background-color: transparent;
