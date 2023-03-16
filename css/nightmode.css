@@ -44,14 +44,6 @@ body.night .navbar-toggler{
     border-style: none;
     background-color: #f6a700;
 }
-body.night .nav-link{
-    color: white;
-}
-body.night .nav-link:hover{
-    font-weight: bold;
-    color: #4d535a;
-    background-color: #f6a700;
-}
 body.night .dropdown-menu{
     background-color: black;
     color: white;
@@ -63,12 +55,9 @@ body.night .dropdown-menu:hover{
 body.night .dropdown-item{
     color: white;
     background-color: black;
-    font-weight: bold;
 }
 body.night .dropdown-item:hover{
-    font-weight: bold;
-    background-color: #f6a700;
-    color: #4d535a;
+    background-color: black;
 }
 body.night .btn-secondary{
     background-color: #f6a700;

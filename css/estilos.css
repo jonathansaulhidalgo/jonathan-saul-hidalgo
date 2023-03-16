@@ -45,14 +45,6 @@ a:hover {
     border-style: none;
     background-color: #4d535a;
 }
-.nav-link{
-    color: #4d535a;
-}
-.nav-link:hover{
-    font-weight: bold;
-    color: white;
-    background-color: #f6a700;
-}
 .dropdown-menu{
     background-color: white;
     color: #4d535a;
@@ -67,9 +59,7 @@ a:hover {
     font-weight: bold;
 }
 .dropdown-item:hover{
-    font-weight: bold;
-    background-color: #f6a700;
-    color: white;
+    background-color: white;
 }
 .logo{
     width: 100px;
