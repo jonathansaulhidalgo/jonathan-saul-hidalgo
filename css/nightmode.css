@@ -60,12 +60,12 @@ body.night .dropdown-item:hover{
     background-color: #4d535a;
 }
 body.night .btn-secondary{
-    background-color: white;
-    color: #f6a700;
+    background-color: #f6a700;
+    color: #4d535a;
 }
 body.night .btn-secondary:hover{
-    background-color: white;
-    color: #f6a700;
+    background-color: #f6a700;
+    color: #4d535a;
 }
 body.night .btn-day-night{
     color: #4d535a;
