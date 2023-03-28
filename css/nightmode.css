@@ -57,15 +57,15 @@ body.night .dropdown-item{
     background-color: black;
 }
 body.night .dropdown-item:hover{
-    background-color: black;
+    background-color: #4d535a;
 }
 body.night .btn-secondary{
-    background-color: #f6a700;
-    color: #4d535a;
+    background-color: white;
+    color: #f6a700;
 }
 body.night .btn-secondary:hover{
-    background-color: #f6a700;
-    color: #4d535a;
+    background-color: white;
+    color: #f6a700;
 }
 body.night .btn-day-night{
     color: #4d535a;
